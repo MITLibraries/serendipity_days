@@ -11,9 +11,11 @@ Let's take a day to work on something (useful) that is not currently getting att
 
 ## When
 
-[Help us pick a day!](https://docs.google.com/forms/d/e/1FAIpQLSfPeyyJ803T2AiXyHKzEPko2hod29dYOL-B_V3-pS6Q-AKz5g/viewform?usp=sf_link)
+:rocket: Thursday July 6th, 11am to Friday July 7th, 1pm :rainbow:
 
-Exact days to be determined based on the results of the linked survey, but it will be from 11am on a Thursday with lightning talk pitches of what people want to work on until 1pm on a Friday with lunchtime lightning talks of what was accomplished (successes, failures, doesn’t matter... presenting results is required).
+The results are in. Thursday July 6th to Friday July 7th was the winner with
+12 of the 16 responders picking that date. Unfortunately, there was not a date
+that was great for everyone.
 
 
 ## Who
@@ -34,12 +36,17 @@ Propose a project and gather collaborators or join another team. Work as teams o
 ## Prizes
 
 We will have an impartial judge and a small prize budget.
+:checkered_flag: :confetti_ball:
 
 
 ## Food / Snacks:
-Day 1: kickoff lunch, afternoon snacks, and dinner (if you choose to stay late)
+July 6th
 
-Day 2: light breakfast, lunch during presentations
+- Day 1: kickoff lunch, afternoon snacks :cookie:
+
+July 7th
+
+- Day 2: light breakfast :doughnut:, lunch during presentations
 
 
 ## Ongoing Support
