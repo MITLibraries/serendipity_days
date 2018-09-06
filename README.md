@@ -8,7 +8,7 @@ permalink: /
 
 Let's take a day to work on something (useful) that is not currently getting attention but is in scope for what the libraries do (or should do). The definition of usefulness is intentionally vague. A 'useful' Slack bot script seems fair game, as does experimenting with metadata cleanup, or working on a bug in your favorite open source project.
 
-This year, we want to also introduce the possibility of working on project pitches instead of trying to knock out a bunch of code in a day. Spend the day working with peers to define a project proposal.
+This year, we want to also introduce the possibility of working on project pitches instead of trying to knock out a bunch of code in a day. Spend the day working with peers to define a project proposal and pitch it at the end of the Days.
 
 
 ## When
@@ -48,7 +48,7 @@ We will have an impartial judge and a small prize budget.
 
 ## Notes
 
-The projects really shouldn’t be worked on in advance or that defeats the purpose of the day a bit, so honor system is in play. However, if you are proposing a project that will need data or server resources work that out in advance. It’s appropriate to confirm you have access to an API and know how to access it, etc. Heroku and MIT OpenID Pilot are appropriate for this type of experimentation even if they may not be approved for a finalized version of the service.
+The projects really shouldn’t be worked on in advance or that defeats the purpose of the day a bit, so honor system is in play. However, if your idea will need data or server resources, feel free to work that out in advance. It’s appropriate to confirm you have access to an API and know how to access it, etc. Heroku and MIT OpenID Pilot are appropriate for this type of experimentation even if they may not be approved for a finalized version of the service.
 
 ## Background
 
