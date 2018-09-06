@@ -2,35 +2,33 @@
 permalink: /
 ---
 
-# Summer 2017
+# Fall 2018
 
 ## What
 
-Let's take a day to work on something (useful) that is not currently getting attention but is in scope for what the libraries do (or should do). The definition of usefulness is intentionally vague. A 'useful' Slack bot script seems fair game, as does experimenting with Blacklight with some of our MARC records, or innovatively solving the presence problem (i.e. who is in CubeSpace today).
+Let's take a day to work on something (useful) that is not currently getting attention but is in scope for what the libraries do (or should do). The definition of usefulness is intentionally vague. A 'useful' Slack bot script seems fair game, as does experimenting with metadata cleanup, or working on a bug in your favorite open source project.
+
+This year, we want to also introduce the possibility of working on project pitches instead of trying to knock out a bunch of code in a day. Spend the day working with peers to define a project proposal.
 
 
 ## When
 
-:rocket: Thursday July 6th, 11am to Friday July 7th, 1pm :rainbow:
+:rocket: October ? :rainbow:
 
-The results are in. Thursday July 6th to Friday July 7th was the winner with
-12 of the 16 responders picking that date. Unfortunately, there was not a date
-that was great for everyone.
-
+We need to look at the calendar... we'll let you know soon.
 
 ## Who
 
-ITDD for this initial test. If successful, inviting more people might be even better.
+DLS for sure, but if other directorates want to participate that would be great.
 
 
 ## Where
 
-Cubespace!
-
+NE-36
 
 ## How
 
-Propose a project and gather collaborators or join another team. Work as teams or individuals to complete your project in 24 hours. The core activity is expected to occur during normal work hours over a 24-hour span of time. Staff may stay a bit late if they choose, but please don’t pull an all nighter in Cubespace. Scope your projects with this time constraint in mind!
+Propose a project and gather collaborators or join another team. Work as teams or individuals to complete your project or proposal in 24 hours. The core activity is expected to occur during normal work hours over a 24-hour span of time. Staff may stay a bit late if they choose, but please don’t pull an all nighter. Scope your plans with this time constraint in mind!
 
 
 ## Prizes
@@ -40,26 +38,21 @@ We will have an impartial judge and a small prize budget.
 
 
 ## Food / Snacks:
-July 6th
 
 - Day 1: kickoff lunch, afternoon snacks :cookie:
-
-July 7th
-
 - Day 2: light breakfast :doughnut:, lunch during presentations
-
 
 ## Ongoing Support
 
-**There should be no expectation that any project completed during Serendipity Days will be launched into production or supported in any way.** Some may be very useful and thus justify productionizing via a small p-project proposal. Others may serve as proof of concepts for larger ITIG proposals. And of course some may be downright awful ideas and fail nice and fast in a single day.
-
+**There should be no expectation that any project or proposal completed during Serendipity Days will be launched into production or supported in any way.** Some may be very useful and thus justify productionizing via a small p-project proposal. Others may serve as proof of concepts for larger proposals. And of course some may be downright awful ideas and fail nice and fast in a single day.
 
 ## Notes
 
 The projects really shouldn’t be worked on in advance or that defeats the purpose of the day a bit, so honor system is in play. However, if you are proposing a project that will need data or server resources work that out in advance. It’s appropriate to confirm you have access to an API and know how to access it, etc. Heroku and MIT OpenID Pilot are appropriate for this type of experimentation even if they may not be approved for a finalized version of the service.
 
-
 ## Background
+
+[Our Summer 2017 Event](/2017_summer)
 
 [Serendipity at NPR](https://npr.codes/serendipity-at-npr-5fb185bb5864)
 
