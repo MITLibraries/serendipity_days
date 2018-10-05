@@ -10,17 +10,17 @@ Let's take a day to work on something (useful) that is not currently getting att
 
 This year, we want to also introduce the possibility of working on project pitches instead of trying to knock out a bunch of code in a day. Spend the day working with peers to define a project proposal and pitch it at the end of the Days.
 
+Serendipity Days can be an opportunity to work with colleagues your project work might not normally pair you with.
+
+Some potential ideas for project areas could be on the topics of DISJ, Machine Learning, APIs, microdata, microformats, or something entirely different.
 
 ## When
 
-:rocket: October ? :rainbow:
-
-We need to look at the calendar... we'll let you know soon.
+:rocket: November 5th and November 6th:rainbow:
 
 ## Who
 
-DLS for sure, but if other directorates want to participate that would be great.
-
+DLS.
 
 ## Where
 
@@ -40,7 +40,7 @@ We will have an impartial judge and a small prize budget.
 ## Food / Snacks:
 
 - Day 1: kickoff lunch, afternoon snacks :cookie:
-- Day 2: light breakfast :doughnut:, lunch during presentations
+- Day 2: lunch during presentations
 
 ## Ongoing Support
 
