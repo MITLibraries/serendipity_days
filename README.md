@@ -16,7 +16,8 @@ Some potential ideas for project areas could be on the topics of DISJ, Machine L
 
 ## When
 
-:rocket: November 5th and November 6th:rainbow:
+:rocket: Lunchtime on November 5th through lunch (demo time) on November 6th :rainbow:
+Renee will send invites for the kickoff lunch and the demo lunch to know how many lunches to order. Be sure to block the rest of the time on your calendar if you are planning to participate!
 
 ## Who
 
@@ -25,6 +26,7 @@ DLS.
 ## Where
 
 NE-36
+Draco will be booked for the duration of the Days, but if you would like to book a breakout room for your team, that's up to you. 
 
 ## How
 
