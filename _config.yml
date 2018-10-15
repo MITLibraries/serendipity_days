@@ -1,4 +1,6 @@
 title: MIT Libraries Serendipity Days
 
+remote_theme: mitlibraries/mitlibraries-jekyll
+
 gems:
   - jemoji
